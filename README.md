@@ -25,14 +25,6 @@ A **Extensão de Suporte TI** foi desenvolvida para centralizar e simplificar o 
 - Navegador compatível (Google Chrome, Firefox, etc.).
 - Acesso ao `localStorage` para salvar as preferências de tema.
 
-## Contribuindo
-
-Se você tiver sugestões, problemas ou quiser contribuir com o projeto, fique à vontade para abrir uma issue ou enviar um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ---
 
 Desenvolvido para facilitar a vida dos técnicos de suporte em TI, tornando as operações diárias mais eficientes e organizadas.
